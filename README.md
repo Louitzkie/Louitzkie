@@ -8,7 +8,8 @@ I'm **Louis Andrie Cruz** an aspiring front-end web developer my passion about m
 
 <p align="left">
 <a href="https://www.youtube.com/@Lastacruz">Youtube.com/@Lastacruz</a>
-<a href="[https://www.youtube.com/@Lastacruz](https://lastacruz.netlify.app/)">Portfolio</a>
+##
+<a href="https://lastacruz.netlify.app">Portfolio</a>
 </p>
 
 
