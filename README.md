@@ -7,6 +7,6 @@ I'm **Louis Andrie Cruz** an aspiring front-end web developer my passion about m
 **`(Front-End Developer / Graphic Designer)`**
 
 <p align="left">
-<a href="[https://louitzkie.netlify.app](https://louitzkie.github.io/portfolio/)">Portfolio</a>
+<a href="https://louitzkie.github.io/portfolio/">Portfolio</a>
 </p>
 
